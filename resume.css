@@ -1,0 +1,58 @@
+.a1 {
+  width: 100%;
+  height: 280px;
+  background-color: rgb(60, 60, 179);
+  font-weight: bold;
+}
+.a1 .a1-1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.a1 .a1-1 .img1 {
+  width: 150px;
+  height: 150px;
+  border-radius: 75px;
+}
+.a1 .a1-2 {
+  margin-top: -15px;
+  font-size: 18px;
+  color: aliceblue;
+  text-align: center;
+}
+
+.p1 {
+  margin-left: 80px;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.a2 {
+  font-size: 20px;
+  margin-left: 80px;
+  font-weight: bold;
+}
+
+.a3 {
+  width: 100%;
+  height: 420px;
+  background-color: rgb(60, 60, 179);
+  font-weight: bold;
+}
+.a3 .a3-1 {
+  font-size: 20px;
+  text-align: center;
+  color: white;
+  margin-top: 30px;
+}
+.a3 .a3-1 .p2 {
+  font-size: 32px;
+}
+
+span {
+  font-weight: bold;
+  margin-left: 25px;
+  font-size: 28px;
+  color: rgb(0, 171, 251);
+  font-weight: bold;
+}/*# sourceMappingURL=resume.css.map */
